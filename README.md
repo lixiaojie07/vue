@@ -1,6 +1,5 @@
 # gowhere
-
-> A Vue.js project
+vue单页应用
 
 ## Build Setup
 
