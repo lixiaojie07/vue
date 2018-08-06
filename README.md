@@ -1,5 +1,5 @@
 # gowhere
-vue单页应用 开发了去哪儿网移动端
+vue单页应用
 
 ## Build Setup
 
